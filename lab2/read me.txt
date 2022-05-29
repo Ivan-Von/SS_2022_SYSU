@@ -1,0 +1,7 @@
+dconv.m : 离散函数卷积
+signal.m : 离散函数卷积的测试样例
+sconv.m : 连续函数卷积
+constant.m : 连续函数卷积的测试样例
+
+constant.fig连续函数卷积的测试样例
+exercise2/3.fig 2/3题目的测试结果
